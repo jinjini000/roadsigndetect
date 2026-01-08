@@ -368,3 +368,15 @@ plt.show()
 7. 결과 이미지를 그리드 형태로 시각화
 
 위 과정을 바탕으로, 다른 객체 검출 데이터셋에도 비슷한 방식으로 **YOLOv8 커스텀 학습 파이프라인**을 쉽게 적용할 수 있습니다.
+
+<img width="2250" height="1500" alt="BoxPR_curve" src="https://github.com/user-attachments/assets/f0e751a3-cc02-4c2f-aa54-9a8432040354" />
+<img width="2250" height="1500" alt="BoxP_curve" src="https://github.com/user-attachments/assets/f3cbc90e-826b-48e5-8e7f-0bc8b69579e6" />
+<img width="2250" height="1500" alt="BoxR_curve (1)" src="https://github.com/user-attachments/assets/3177357d-105e-4765-9108-432986bfb65d" />
+<img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/ca131e8b-e5cf-402d-8448-b0cea1688c72" />
+<img width="3000" height="2250" alt="confusion_matrix_normalized (1)" src="https://github.com/user-attachments/assets/9b9a763d-2994-4ed3-9271-5e3b3979988e" />
+<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/41c8b9fc-dfc6-48fb-bcd8-16eec6341fb5" />
+<img width="2250" height="1500" alt="BoxF1_curve" src="https://github.com/user-attachments/assets/be160440-d444-4f10-82aa-f3b23b0e3e9f" />
+
+<img src="https://github.com/user-attachments/assets/5df2bd1a-0467-4923-bfd1-50c2783ef847"/>
+
+
